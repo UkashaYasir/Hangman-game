@@ -1,2 +1,5 @@
-# Hangman-game
-This games is about hangman game , a word guessing game , for my intern.
+I am a versatile professional with a diverse background that blends creativity, customer-centric expertise, and a growing passion for technology. My journey began in video editing, where I honed my ability to tell compelling visual stories and communicate ideas effectively. I further expanded my skill set by serving as a customer service representative on Shopify and as an Amazon Virtual Expert, roles that sharpened my problem-solving skills and deepened my understanding of e-commerce dynamics.
+
+Today, I am channeling my curiosity and drive by studying Python development. This new chapter allows me to merge my creative and customer service experiences with technical proficiency, opening up innovative ways to streamline processes and enhance user experiences. I am excited about the potential of integrating technology with digital media and customer service to create more efficient and engaging solutions.
+
+I thrive in environments that challenge me to think outside the box, and I am always eager to learn and grow. Whether it's crafting dynamic video content, solving customer challenges, or developing new software skills, I bring dedication, adaptability, and a collaborative spirit to every project. I look forward to connecting with professionals who share my passion for innovation and excellence.
